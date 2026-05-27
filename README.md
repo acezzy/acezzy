@@ -1,6 +1,18 @@
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="left">
+  <a href="wfghygol8@mozmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=MAIL&logo=gmail&label=&color=red&logoColor=white&labelColor=red&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.com/users/1207430053953273966" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31chmyyuldmozz3znyi63v7l5mwu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31chmyyuldmozz3znyi63v7l5mwu&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
